@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## ✨Information
+#### Currently majoring in Information Technology at TDU.
 #### This account is for school/company use only. Personal development is not included.
 
 ## ⚡ Status
