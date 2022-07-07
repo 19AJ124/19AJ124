@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## ⚡ Status
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=19AJ124&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)]
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=8888&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)]
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19AJ124&layout=compact&theme=tokyonight)]
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8888&layout=compact&theme=tokyonight)]
