@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## ✨Information
-#### Currently majoring in Information Technology at TDU.
 #### This account is for school/company use only. Personal development is not included.
 
 ## ⚡ Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19AJ124&theme=onedark
+)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=19AJ124&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=19AJ124&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19AJ124&layout=compact&theme=tokyonight)]
